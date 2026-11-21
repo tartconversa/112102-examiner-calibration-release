@@ -1,0 +1,5 @@
+duty,centre,day,start,end,mode
+D1,B,29,9,12,independent
+D2,B,29,9,12,supervised
+D3,A,29,10,12,supervised
+D4,A,29,13,17,independent

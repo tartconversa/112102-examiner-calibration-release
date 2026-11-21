@@ -1,0 +1,4 @@
+event,duty,candidate,supervisor,day,state
+A1,D2,P27,P15,25,reserved
+A2,D1,P21,,27,accepted
+A3,D2,P27,P15,28,accepted

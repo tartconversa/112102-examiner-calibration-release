@@ -1,0 +1,4 @@
+rule,task,min_score,validity_days,mode
+K1,service,68,30,independent
+K2,oversight,73,26,supervisor
+K3,service,58,20,supervised
